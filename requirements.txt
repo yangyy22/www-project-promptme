@@ -33,3 +33,5 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 psutil
 email_validator
+dnspython>=2.9.2 # not directly required, pinned by Snyk to avoid a vulnerability
+soupsieve>=4.0 # not directly required, pinned by Snyk to avoid a vulnerability
