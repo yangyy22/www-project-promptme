@@ -2,3 +2,4 @@ flask
 requests
 beautifulsoup4
 uuid
+soupsieve>=4.0 # not directly required, pinned by Snyk to avoid a vulnerability
